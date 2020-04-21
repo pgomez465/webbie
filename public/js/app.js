@@ -4,15 +4,15 @@ let otCore;
 console.log(x);
 if(x=="password=csi"){
   credentials1={
-    "apiKey": "Enter your api key",
-    "sessionId": "Enter your sessionId",
-    "token": "enter your token"
+    "apiKey": "46691642",
+    "sessionId": "2_MX40NjY5MTY0Mn5-MTU4NzUwNTAzNzk5Mn5MMnBDZGpyWGgwMVovVmlubVA0c0FZVkZ-fg",
+    "token": "T1==cGFydG5lcl9pZD00NjY5MTY0MiZzaWc9Njk0MDVmNWM0MDFjYmNiNjc3NzAyNmZmOWJmN2RhNWFjNGYwOWU4YzpzZXNzaW9uX2lkPTJfTVg0ME5qWTVNVFkwTW41LU1UVTROelV3TlRBek56azVNbjVNTW5CRFpHcHlXR2d3TVZvdlZtbHViVkEwYzBGWlZrWi1mZyZjcmVhdGVfdGltZT0xNTg3NTA1MDYwJm5vbmNlPTAuNjcxNDUwMzM3NzYyNTgmcm9sZT1wdWJsaXNoZXImZXhwaXJlX3RpbWU9MTU5MDA5NzA1OSZpbml0aWFsX2xheW91dF9jbGFzc19saXN0PQ=="
   }}
   else{
     credentials1={
-      "apiKey": "Enter your api key",
-    "sessionId": "Enter your sessionId",
-    "token": "enter your token"
+      "apiKey": "46691642",
+    "sessionId": "2_MX40NjY5MTY0Mn5-MTU4NzUwNTAzNzk5Mn5MMnBDZGpyWGgwMVovVmlubVA0c0FZVkZ-fg",
+    "token": "T1==cGFydG5lcl9pZD00NjY5MTY0MiZzaWc9Njk0MDVmNWM0MDFjYmNiNjc3NzAyNmZmOWJmN2RhNWFjNGYwOWU4YzpzZXNzaW9uX2lkPTJfTVg0ME5qWTVNVFkwTW41LU1UVTROelV3TlRBek56azVNbjVNTW5CRFpHcHlXR2d3TVZvdlZtbHViVkEwYzBGWlZrWi1mZyZjcmVhdGVfdGltZT0xNTg3NTA1MDYwJm5vbmNlPTAuNjcxNDUwMzM3NzYyNTgmcm9sZT1wdWJsaXNoZXImZXhwaXJlX3RpbWU9MTU5MDA5NzA1OSZpbml0aWFsX2xheW91dF9jbGFzc19saXN0PQ=="
   }
   }
 console.log(credentials1);
